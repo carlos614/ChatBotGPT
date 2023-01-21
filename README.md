@@ -9,6 +9,10 @@ Tecnologias:
   
  Para execução do ChatBotGPT, é necessário ter as seguintes instalações:
  
+ Clone o projeto com o seguinte comando:
+ 
+ git clone https://github.com/carlos614/ChatBotGPT.git
+ 
  Baixar o instalador no site oficial do Node.js (https://nodejs.org/en/download/) e seguir as instruções de instalação.
  
  Uma vez que você instalou o Node.js, você também terá o npm instalado automaticamente, o npm é o gerenciador de pacotes do Node.js
