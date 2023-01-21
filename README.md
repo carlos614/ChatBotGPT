@@ -32,6 +32,7 @@ raiz do projeto.
 
 # Instale openai como uma dependencia do seu projeto
 npm install openai
+
 Para evitarmos futuros problemas como o vazamento da nossa api key e organization id vamos instalar também uma depencia chamada dotenv, 
 que serve para criarmos variáveis de ambiente separadas do código.
 
