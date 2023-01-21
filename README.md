@@ -23,7 +23,8 @@ Tecnologias:
  
  Feito isso, abra o prompt comando e digite os seguintes comandos:
  
- 
+# Crie um pasta
+mkdir zap-gpt
 # Entre na pasta criada 
 cd zap-gpt
 
