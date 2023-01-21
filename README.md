@@ -13,6 +13,8 @@ Tecnologias:
  
  git clone https://github.com/carlos614/ChatBotGPT.git
  
+ Vá até o arquivo .env.example e renomeie-o para .env, e altere os valores necessários para seu funcionamento.
+ 
  Baixar o instalador no site oficial do Node.js (https://nodejs.org/en/download/) e seguir as instruções de instalação.
  
  Uma vez que você instalou o Node.js, você também terá o npm instalado automaticamente, o npm é o gerenciador de pacotes do Node.js
