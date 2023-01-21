@@ -45,6 +45,6 @@ Entre neste link para pegar sua chave https://beta.openai.com/account/api-keys, 
 Para pegar o organization ID também é bem fácil, é só acessar este link e copiar o seu ID https://beta.openai.com/account/org-settings
 
 # Considerações
-ChatBotGpt, base desenvolvida no site: https://medium.com/@victorhcharry/guia-completo-de-como-integrar-o-gpt-com-whatsapp-da9040341859 
+ChatBotGpt, base desenvolvida pelo site: https://medium.com/@victorhcharry/guia-completo-de-como-integrar-o-gpt-com-whatsapp-da9040341859 
 
 Com melhorias para múltiplas sessões para celulares diferentes, gerando Qrcode aleatoriamente.
